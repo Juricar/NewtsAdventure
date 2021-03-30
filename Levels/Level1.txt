@@ -1,0 +1,12 @@
+Level 1
+WWWWWWWWWWWW
+W__________W
+WX________XW
+W____EE____W
+W__XXXXXX__W
+W__________W
+WX_XXXXXX_XW
+W__________W
+WX_XXXXXX_XW
+WH_________W
+WXXXXXXXXXXW
